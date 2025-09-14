@@ -36,7 +36,7 @@
   "homepage": "https://github.com/CosmWasm/CosmWasmJS#readme",
   "dependencies": {
     "@cosmjs/amino": "^0.28.9",
-    "@cosmjs/cli": "^0.28.9",
+    "@cosmjs/cli": "^0.34.0",
     "@cosmjs/cosmwasm-stargate": "^0.28.9",
     "@cosmjs/crypto": "^0.28.9",
     "@cosmjs/encoding": "^0.28.9",
