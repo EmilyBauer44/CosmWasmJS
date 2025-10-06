@@ -42,7 +42,7 @@
     "@cosmjs/encoding": "^0.28.9",
     "@cosmjs/faucet-client": "^0.28.9",
     "@cosmjs/ledger-amino": "^0.28.9",
-    "@cosmjs/math": "^0.28.9",
+    "@cosmjs/math": "^0.36.1",
     "@cosmjs/proto-signing": "^0.28.9",
     "@cosmjs/stargate": "^0.28.9",
     "@cosmjs/utils": "^0.28.9",
